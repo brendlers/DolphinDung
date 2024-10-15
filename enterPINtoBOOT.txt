@@ -1,0 +1,10 @@
+REM enter Pin for Boot
+
+REM Aktiv schalten
+DELAY 500
+MENU
+DELAY 1000
+REM PIN-Eingabe (Anpassung notwendig)
+STRING 0000
+DELAY 500
+ENTER

@@ -1,0 +1,43 @@
+REM Dieses Skript schaltet auf Pixel4a mit Android 13 Talkback an
+
+REM Bei aktivieren von DuckySkript
+REM Gerät wechselt auf Sperrbildschirm
+DELAY 1000
+REM Menü drücken zur PIN-Eingabe
+MENU
+DELAY 1000
+
+REM PIN-Eingabe (Anpassung notwendig)
+STRING 0000
+DELAY 500
+ENTER
+DELAY 2500
+
+REM Bedienungshilfen aufrufen
+CTRL a
+DELAY 2500
+STRING Einstellungen
+DELAY 1500
+ENTER
+
+REM toggle input
+DELAY 500
+ENTER
+DELAY 500
+TAB
+DELAY 500
+GUI TAB
+DELAY 500
+REM activate input
+ENTER
+DELAY 1000
+REM insert TALKBACK
+STRING Talkback
+DELAY 500
+ENTER
+DOWNARROW
+DELAY 500
+TAB
+DELAY 500
+ENTER
+REM Talkback sollte aktiviert worden sein EOF
