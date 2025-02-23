@@ -1,11 +1,11 @@
 # DolphinDung
-#DolphinDung is a collection of scripts to manipulate a #Pixel #phone with #no-screen to use. (Because it is #broken)
+DolphinDung is a collection of scripts to manipulate a Pixel #phone with no-screen to use. (Because it is broken)
 
 There are a few scripts for different purposes.
   
 
 ## Installation
-No installation needed, just download it and place it in the #BAD-USB folder on your #FlipperZero device.
+No installation needed, just download it and place it in the BAD-USB folder on your FlipperZero device.
 ## Usage
 After placing the scripts into the right folder you can simply connect your FlipperZero to YOUR phone and start working.
 
