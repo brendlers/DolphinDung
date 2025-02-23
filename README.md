@@ -1,5 +1,5 @@
 # DolphinDung
-DolphinDung is a collection of scripts to manipulate a Pixel #phone with no-screen to use. (Because it is broken)
+DolphinDung is a collection of scripts to manipulate a Pixel phone with no-screen to use. (Because it is broken)
 
 There are a few scripts for different purposes.
   
